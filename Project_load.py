@@ -3,6 +3,7 @@ import mysql.connector
 import pandas as pd
 import io
 
+
 st.set_page_config(
     page_title="Site Load Details",
     layout="wide",

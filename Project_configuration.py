@@ -4,6 +4,7 @@ from datetime import datetime
 import os
 import sys
 
+
 def nav_to(page):
     st.session_state.page = page
 
