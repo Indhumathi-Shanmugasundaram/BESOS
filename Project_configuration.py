@@ -2,6 +2,7 @@
 import streamlit as st
 import mysql.connector
 
+
 # MySQL connection
 def get_connection():
     return mysql.connector.connect(
